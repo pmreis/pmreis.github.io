@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Born and still living in [Lisbon](http://en.wikipedia.org/wiki/Lisbon), I tend to live my life around technology, science, sports and art. Because time is never enough to do a bit of everything everyday, I tend to shift my focus in these subjects over the years.
+Born and still living in [Lisbon](http://en.wikipedia.org/wiki/Lisbon), my interests circle around technology, science, sports and art. Because time is never enough to do a bit of everything everyday, I tend to shift my focus in these subjects over the years.
 
 On the subject of technology, I currently focus on development tools, languages and methodologies with emphasis on open source technologies. As for science, my current interest is Machine Learning, but I've also researched Semantic Web principles and technologies, having developed some tools to enable user interaction on the life sciences domain. I've also done some professional work on designing, implementing and optimizing an infrastructure and respective information system for genotyping, analysis and classification of clinical data, focusing on the heart related pathologies. On the sports subject I'm a biker (also a motorcyclist) in both the road and cross country disciplines. Finally, regarding art, I enjoy photography and hope someday to publish some videos of my own.
 
