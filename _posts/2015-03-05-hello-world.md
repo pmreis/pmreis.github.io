@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello, World!"
-date: 2015-03-05 00:14:00
+date: 2015-03-05
 categories: [blog]
 tags: [biography]
 comments: true
